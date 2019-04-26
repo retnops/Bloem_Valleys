@@ -1,0 +1,4 @@
+#Fri Apr 26 17:45:37 WIB 2019
+base.0=/home/rps/retno/Bloem_Valleys/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

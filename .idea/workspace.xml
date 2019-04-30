@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17172dd8-35a8-41f7-8d11-597d268ebc44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/banner1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/banner5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bouquet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/flowers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/lotus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/rose.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
